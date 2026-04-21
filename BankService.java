@@ -5,7 +5,7 @@ public class BankService {
         System.out.println("===== BANK APPLICATION =====");
         System.out.println("Initial Balance: ₹" + balance);
 
-        double deposit = 500.0;
+        double deposit = 900.0;
         balance += deposit;
         System.out.println("Deposited: ₹" + deposit);
 
