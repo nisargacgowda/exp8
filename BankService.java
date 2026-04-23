@@ -1,6 +1,6 @@
 public class BankService {
     public static void main(String[] args) {
-        double balance = 20000.0;
+        double balance = 90000.0;
 
         System.out.println("===== BANK APPLICATION =====");
         System.out.println("Initial Balance: ₹" + balance);
